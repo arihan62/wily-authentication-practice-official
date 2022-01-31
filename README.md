@@ -1,1 +1,2 @@
-# wily-authentication-practice-official
+# searchBar
+Added search bar to the wily App
